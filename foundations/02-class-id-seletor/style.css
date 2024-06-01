@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.odd{
+    background-color: rgb(240, 150, 157);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.three{
+    font-size: 24px;
+}
+
+#number4{
+    background-color: rgb(87, 211, 87);
+    font-size: 24px ;
+    font-weight: bold;
+}
